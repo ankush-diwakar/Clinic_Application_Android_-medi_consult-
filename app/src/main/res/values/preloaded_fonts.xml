@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/amaranth</item>
+        <item>@font/amiko</item>
+        <item>@font/anton</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/asul</item>
+        <item>@font/bad_script</item>
+        <item>@font/bahiana</item>
+        <item>@font/bangers</item>
+        <item>@font/basic</item>
+        <item>@font/bebas_neue</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bitter</item>
+        <item>@font/cabin</item>
+        <item>@font/candal</item>
+    </array>
+</resources>
